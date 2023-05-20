@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "665681670573",
+    "project_id": "marqueberry-assignment",
+    "storage_bucket": "marqueberry-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665681670573:android:ea519f2015089c3b247124",
+        "android_client_info": {
+          "package_name": "com.example.marquee_berry_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665681670573-g6vbmjvuujd9cdu8qsc0njaatae9dk7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marquee_berry_assignment",
+            "certificate_hash": "8023a8fc538ca09b0d3946c063301c63f8766caf"
+          }
+        },
+        {
+          "client_id": "665681670573-0fe9pv5pf8o4bqv27ofgcqp7ed52148i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdb8w62n6spghAPVXViHntGjIXinA8_-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665681670573-0fe9pv5pf8o4bqv27ofgcqp7ed52148i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
